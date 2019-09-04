@@ -8,8 +8,8 @@ img: dandelion-study.portfolio.jpg
 thumbnail: dandelion-study.thumbnail.jpg
 alt: image-alt
 project-date: April 2014
-client: Start Bootstrap
-category: Web Development
+media: Ink on Paper
+size: 18x24
 description: A study of dandelions
 
 ---
