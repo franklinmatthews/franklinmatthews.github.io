@@ -1,14 +1,13 @@
 ---
 title: Tranquil Lake
-subtitle: Website Design
+subtitle: Nature
 layout: default
 modal-id: 1
 date: 2014-07-18
 img: tranquil-lake-portfolio.jpg
 thumbnail: tranquil-lake-thumbnail.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: ink on paper
+media: Ink on Paper
+size: 18in x 24in
+description: Quiescent lake with trees in the distance
 ---
