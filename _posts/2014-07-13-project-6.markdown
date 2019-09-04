@@ -1,6 +1,6 @@
 ---
 title: Amongst the Trees
-subtitle: Graphic Design
+subtitle: Nature
 layout: default
 modal-id: 6
 date: 2014-07-15
