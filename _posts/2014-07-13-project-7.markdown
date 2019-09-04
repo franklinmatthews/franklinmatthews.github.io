@@ -1,16 +1,15 @@
 ---
-title: Something different
-subtitle: Graphic Design
+title: Dandelion Study
+subtitle: Nature
 layout: default
 modal-id: 7
 date: 2014-07-15
-img: roundicons.png
-thumbnail: roundicons-thumbnail.png
+img: dandelion-study.portfolio.jpg
+thumbnail: dandelion-study.thumbnail.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: This is some text to describe article 7.
-fakething: This another fake category
+description: A study of dandelions
 
 ---
