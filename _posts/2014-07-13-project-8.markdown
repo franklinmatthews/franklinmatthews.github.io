@@ -1,4 +1,3 @@
----
 title: Reaching Branches
 subtitle: Nature
 layout: default
