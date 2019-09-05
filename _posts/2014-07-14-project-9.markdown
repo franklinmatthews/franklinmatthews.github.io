@@ -1,0 +1,16 @@
+---
+title: Bowing to the Wind
+subtitle: Nature
+layout: default
+modal-id: 9
+date: 2014-07-15
+img: bowing-to-the-wind.portfolio.jpg
+thumbnail: bowing-to-the-wind.thumbnail.jpg
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: trees along a shore being pushed by the wind on a cloudy day
+media: Ink on Paper
+size: 18x24
+---
