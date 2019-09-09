@@ -1,0 +1,14 @@
+---
+title: Island Sunset
+subtitle: Nature
+layout: default
+modal-id: 11
+date: 2014-07-14
+img: island-sunset.port.jpg
+thumbnail: island-sunset.thumbnail.jpg
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: Drawing of a sunset above a forest island across a lake
+---
