@@ -1,0 +1,14 @@
+---
+title: Forest Gateway
+subtitle: Nature
+layout: default
+modal-id: 12
+date: 2014-07-14
+img: Forest-gateway.port.jpg
+thumbnail: forest-gateway.thumbnail.jpg
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: Rendering of a path between trees below a moving, cloudy sky
+---
