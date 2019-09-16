@@ -4,8 +4,8 @@ subtitle: Nature
 layout: default
 modal-id: 7
 date: 2014-07-15
-img: dandelion-study.portfolio.jpg
-thumbnail: dandelion-study.thumbnail.jpg
+img: dandelion-study-flipped.portfolio.jpg
+thumbnail: dandelion-study-flipped.thumbnail.jpg
 alt: image-alt
 project-date: April 2014
 media: Ink on Paper
