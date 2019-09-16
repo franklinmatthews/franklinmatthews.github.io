@@ -4,8 +4,8 @@ subtitle: Nature
 layout: default
 modal-id: 6
 date: 2014-07-15
-img: amongst-the-trees.portfolio.jpg
-thumbnail: amongst-the-trees.thumbnail.jpg
+img: amongst-the-trees-flipped.portfolio.jpg
+thumbnail: amongst-the-trees-flipped.thumbnail.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
