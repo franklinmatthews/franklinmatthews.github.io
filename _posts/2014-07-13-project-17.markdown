@@ -1,0 +1,14 @@
+---
+title: Dark Sunset
+subtitle: Nature
+layout: default
+modal-id: 17
+date: 2014-07-14
+img: dark-sunset.port.jpg
+thumbnail: dark-sunset.thumbnail.jpg
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: Dark clouds passing a sunset behind the forest
+---
