@@ -1,0 +1,14 @@
+---
+title: Blue Sunset
+subtitle: Nature
+layout: default
+modal-id: 16
+date: 2014-07-14
+img: blue-sunset.portfolio.jpg
+thumbnail: blue-sunset.thumbnail.jpg
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: Rendering of a sunset behind an eerie forest and among blue clouds
+---
