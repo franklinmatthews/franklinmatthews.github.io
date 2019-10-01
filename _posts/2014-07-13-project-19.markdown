@@ -1,0 +1,13 @@
+---
+title: Dead Trees
+subtitle: Nature
+layout: default
+modal-id: 19
+date: 2014-07-18
+img: dead-trees.portfolio.jpg
+thumbnail: dead-trees.thumbnail.jpg
+alt: image-alt
+media: Ink on Paper
+size: 18in x 24in
+description: Rendering of a field with several dead trees under an intense, dark sky
+---
