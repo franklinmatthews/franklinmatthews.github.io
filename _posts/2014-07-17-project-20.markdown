@@ -1,0 +1,13 @@
+---
+title: Forest Path
+subtitle: Nature
+layout: default
+modal-id: 20
+date: 2014-07-18
+img: forest-path.portfolio.jpg
+thumbnail: forest-path.thumbnail.jpg
+alt: image-alt
+media: Ink on Paper
+size: 18in x 24in
+description: Rendering of a walking path between a full forest
+---
