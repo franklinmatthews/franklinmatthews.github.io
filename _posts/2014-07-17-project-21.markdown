@@ -1,0 +1,13 @@
+---
+title: Leaf on Water
+subtitle: Nature
+layout: default
+modal-id: 21
+date: 2014-07-18
+img: leaf-on-water.portfolio.jpg
+thumbnail: leaf-on-water.thumbnail.jpg
+alt: image-alt
+media: Ink on Paper
+size: 18in x 24in
+description: study of a leaf on water 
+---
