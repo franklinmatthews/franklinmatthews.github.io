@@ -1,0 +1,13 @@
+---
+title: Leaf Falling
+subtitle: Nature
+layout: default
+modal-id: 18
+date: 2014-07-18
+img: leaf-falling.portfolio.jpg
+thumbnail: leaf-falling.thumbnail.jpg
+alt: image-alt
+media: Ink on Paper
+size: 18in x 24in
+description: Study of a leaf descending
+---
