@@ -1,0 +1,13 @@
+---
+title: Breath of the Forest
+subtitle: Nature
+layout: default
+modal-id: 22
+date: 2014-07-18
+img: breath-of-the-forest.portfolio.jpg
+thumbnail: breath-of-the-forest.thumbnail.jpg
+alt: image-alt
+media: Ink on Paper
+size: 18in x 24in
+description: Two trees being shaken by the wind
+---
