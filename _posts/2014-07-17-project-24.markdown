@@ -1,0 +1,13 @@
+---
+title: Forest Breeze
+subtitle: Nature
+layout: default
+modal-id: 24
+date: 2014-07-18
+img: forest-breeze.portfolio.jpg
+thumbnail: forest-breeze.thumbnail.jpg
+alt: image-alt
+media: Ink on Paper
+size: 18in x 24in
+description: rendering of a forest below rolling, cloudy skies
+---
