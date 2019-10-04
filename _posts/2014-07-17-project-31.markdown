@@ -1,0 +1,13 @@
+---
+title: From the Depths of the Forest
+subtitle: Nature
+layout: default
+modal-id: 31
+date: 2014-07-18
+img: from-the-depths-of-the-forest.portfolio.jpg
+thumbnail: from-the-depths-of-the-forest.thumbnail.jpg
+alt: image-alt
+media: Ink on Paper
+size: 18in x 24in
+description: A beaming, setting sun shines over the dark, surrounding forest
+---
