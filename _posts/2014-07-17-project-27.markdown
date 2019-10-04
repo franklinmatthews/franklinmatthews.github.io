@@ -1,0 +1,13 @@
+---
+title: Cascading Treeline
+subtitle: Nature
+layout: default
+modal-id: 27
+date: 2014-07-18
+img: cascading-treeline.portfolio.jpg
+thumbnail: cascading-treeline.thumbnail.jpg
+alt: image-alt
+media: Ink on Paper
+size: 18in x 24in
+description: Rendering of a forest
+---
