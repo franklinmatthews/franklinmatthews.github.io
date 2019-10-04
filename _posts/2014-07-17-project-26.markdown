@@ -1,0 +1,13 @@
+---
+title: Aerial Forest View
+subtitle: Nature
+layout: default
+modal-id: 26
+date: 2014-07-18
+img: aerial-forest-view.portfolio.jpg
+thumbnail: aerial-forest-view.thumbnail.jpg
+alt: image-alt
+media: Ink on Paper
+size: 18in x 24in
+description: Rendering of an aerial view of a forest
+---
