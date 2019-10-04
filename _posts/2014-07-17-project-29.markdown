@@ -1,0 +1,13 @@
+---
+title: Touching the Heavens
+subtitle: Nature
+layout: default
+modal-id: 29
+date: 2014-07-18
+img: touching-the-heavens.jpg
+thumbnail: touching-the-heavens.thumbnail.jpg
+alt: image-alt
+media: Ink on Paper
+size: 18in x 24in
+description: Rendering of tall trees reaching for the sky across a lake
+---
