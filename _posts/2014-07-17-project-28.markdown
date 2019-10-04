@@ -1,0 +1,13 @@
+---
+title: Prairie Sunset
+subtitle: Nature
+layout: default
+modal-id: 28
+date: 2014-07-18
+img: prairie-sunset.portfolio.jpg
+thumbnail: prairie-sunset.thumbnail.jpg
+alt: image-alt
+media: Ink on Paper
+size: 18in x 24in
+description: Rendering of a forest across a field under the setting sun
+---
