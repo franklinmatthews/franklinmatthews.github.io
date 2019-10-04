@@ -5,7 +5,7 @@ layout: default
 modal-id: 25
 date: 2014-07-18
 img: rolling-skies.portfolio.jpg
-thumbnail: rolling-skies .thumbnail.jpg
+thumbnail: rolling-skies.thumbnail.jpg
 alt: image-alt
 media: Ink on Paper
 size: 18in x 24in
