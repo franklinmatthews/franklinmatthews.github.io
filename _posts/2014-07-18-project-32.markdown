@@ -1,0 +1,13 @@
+---
+title: Radiant Sunset
+subtitle: Nature
+layout: default
+modal-id: 32
+date: 2014-07-18
+img: radiant-sunset.portfolio.jpg
+thumbnail: radiant-sunset.thumbnail.jpg
+alt: image-alt
+media: Ink on Paper
+size: 18in x 24in
+description: A low sunset peaks through forest trees 
+---
