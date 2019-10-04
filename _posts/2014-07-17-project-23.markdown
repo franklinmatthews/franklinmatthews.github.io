@@ -1,0 +1,13 @@
+---
+title: Descending Treeling
+subtitle: Nature
+layout: default
+modal-id: 23
+date: 2014-07-18
+img: decending-treeline.portfolio.jpg
+thumbnail: descending-treeline.thumbnail.jpg
+alt: image-alt
+media: Ink on Paper
+size: 18in x 24in
+description: rendering of a tree filled forest
+---
