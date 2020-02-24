@@ -1,5 +1,5 @@
 ---
-title: Dandelion Study
+title: Sweetgum Study
 subtitle: Nature
 layout: default
 modal-id: 7
