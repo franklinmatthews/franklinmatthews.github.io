@@ -1,5 +1,5 @@
 ---
-title: Forest Breeze
+title: Wind and Trees
 subtitle: Nature
 layout: default
 modal-id: 24
