@@ -1,5 +1,5 @@
 ---
-title: Tranquil Lake
+title: Edge of a Lake
 subtitle: Nature
 layout: default
 modal-id: 1
